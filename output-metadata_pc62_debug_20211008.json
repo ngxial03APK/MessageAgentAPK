@@ -10,7 +10,7 @@
     {
       "type": "SINGLE",
       "filters": [],
-      "versionCode": 211008005,
+      "versionCode": 201001005,
       "versionName": "v1.00 (20211008.005) pc62",
       "outputFile": "app-pc62-debug.apk"
     }
